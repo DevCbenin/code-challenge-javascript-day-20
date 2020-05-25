@@ -1,5 +1,4 @@
-import Index from './index';
-
+const Index = require('./index');
 
 describe('single line grids', () => {
   test('Should accept an initial game grid', () => {
